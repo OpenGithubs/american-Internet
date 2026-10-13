@@ -22,6 +22,10 @@
 | Pinterest | https://github.com/pinterest     | 
 | Twitter   | https://github.com/twitter       | 
 | Mozilla   | https://github.com/mozilla       | 
+| ByteDance | https://github.com/bytedance     | 
+| Tencent   | https://github.com/Tencent       | 
+| Alibaba   | https://github.com/alibaba       | 
+| Huawei    | https://github.com/Huawei        | 
 | Netflix   | https://github.com/Netflix       | 
 | Facebook  | https://github.com/facebook      | 
 | Google    | https://github.com/google        | 
@@ -29,6 +33,42 @@
 ---
 
 # 详细热门项目介绍
+
+## ByteDance
+
+- **Rust-SR1**  
+  https://github.com/bytedance/rust-sr1  
+  Rust 实现的新一代高性能存储引擎。
+
+## Tencent
+
+- **MMKV**  
+  https://github.com/Tencent/MMKV  
+  基于 mmap 的高性能通用 key-value 存储组件，拥有26k⭐️。
+
+- **Tinker**  
+  https://github.com/Tencent/tinker  
+  Android 热修复框架，支持类替换、资源替换和 so 替换，拥有11k⭐️。
+
+## Alibaba
+
+- **Dubbo**  
+  https://github.com/apache/dubbo  
+  Java RPC 框架，广泛应用于分布式服务治理，拥有40k⭐️。
+
+- **Fastjson**  
+  https://github.com/alibaba/fastjson  
+  Java 高性能 JSON 库，拥有26k⭐️。
+
+- **Nacos**  
+  https://github.com/alibaba/nacos  
+  动态服务发现、配置管理和服务管理平台，拥有32k⭐️。
+
+## Huawei
+
+- **openGauss**  
+  https://github.com/opengauss-mirror/openGauss-server  
+  企业级开源数据库，拥有11k⭐️。
 
 ## Google
 
