@@ -26,6 +26,27 @@
 | Facebook  | https://github.com/facebook      | 
 | Google    | https://github.com/google        | 
 
+## 目录
+
+- [国外前20大互联网公司热门开源项目汇总](#国外前20大互联网公司热门开源项目汇总)
+- [详细热门项目介绍](#详细热门项目介绍)
+  - [Google](#google)
+  - [Meta (Facebook)](#meta-facebook)
+  - [Microsoft](#microsoft)
+  - [Amazon](#amazon)
+  - [Netflix](#netflix)
+  - [Apple](#apple)
+  - [Airbnb](#airbnb)
+  - [X (formerly Twitter)](#x-formerly-twitter)
+  - [LinkedIn](#linkedin)
+  - [Uber](#uber)
+  - [Dropbox](#dropbox)
+  - [Salesforce](#salesforce)
+  - [GitHub](#github)
+  - [Slack](#slack)
+  - [Pinterest](#pinterest)
+  - [Mozilla](#mozilla)
+
 ---
 
 # 详细热门项目介绍
