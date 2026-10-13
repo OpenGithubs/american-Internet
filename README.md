@@ -20,11 +20,8 @@
 | GitHub    | https://github.com/electron      | 
 | Slack     | https://github.com/slatedocs     |
 | Pinterest | https://github.com/pinterest     | 
-| Twitter   | https://github.com/twitter       | 
 | Mozilla   | https://github.com/mozilla       | 
-| Netflix   | https://github.com/Netflix       | 
 | Facebook  | https://github.com/facebook      | 
-| Google    | https://github.com/google        | 
 
 ---
 
